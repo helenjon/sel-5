@@ -44,6 +44,9 @@ def cartcheck():
     value_in_cart = str(result['value'])
     return quantity_in_cart, value_in_cart  
 
+def test_again():
+    pass
+
 
     
 
